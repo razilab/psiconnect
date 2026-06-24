@@ -16,12 +16,13 @@
 #-----------------------------------------------------------------------------------------------
 #define variables
 version=22.0.2 # fmriprep version to use
-projectmassive=${SLURM_JOB_ACCOUNT} # MASSIVE project ID set at the top of the script, e.g. #SBATCH --account=fc37
+fsversion=7.2 # freesurfer version to use
+projectmassive=${SLURM_JOB_ACCOUNT} # HPC project/account ID — set via #SBATCH --account above
 datasetname=PsiConnect # dataset folder name
-datasetdir=/scratch2/${projectmassive}/${datasetname}
+datasetdir=/scratch2/${projectmassive}/${datasetname} # /scratch2/${projectmassive}/ is the Monash MASSIVE path structure; adjust to match your HPC
 bidsdir=${datasetdir}/bids # path to a valid BIDS dataset (check with BIDS validator first!)
 derivsdir=${datasetdir}/derivatives/fmriprep-${version} # where the derivatives will go
-fsdir=${datasetdir}/derivatives/freesurfer-7.2
+fsdir=${datasetdir}/derivatives/freesurfer-${fsversion}
 fslicense=${HOME}/Freesurfer_license.txt # path to FreeSurfer license needed to run fMRIprep. Download your own from https://surfer.nmr.mgh.harvard.edu/registration.html and save it in your home folder with the name "Freesurfer_license.txt"
 singularity_image=<insert path to .simg file here>
 subject=$(cut -f1 ${bidsdir}/participants.tsv | sed -n ${SLURM_ARRAY_TASK_ID}p) # read first column of participants.tsv, then pick rows corresponding to SLURM job array number (remember to start the array number from 2 to skip the column header in participants.tsv)
@@ -33,7 +34,7 @@ memmb=$((($ncpus-2) * $SLURM_MEM_PER_CPU)) # the -2 is to leave some buffer
 # --------------------------------------------------------------------------------------------------
 module purge # always purge modules in job arrays to ensure consistent environments
 unset PYTHONPATH
-module load singularity/3.7.1
+module load singularity/3.7.1 # adjust version to match your HPC environment
 
 echo "SLURM_ARRAY_TASK_ID is ${SLURM_ARRAY_TASK_ID}" # print SLURM array task ID
 echo "subject ${subject}" # print subject ID

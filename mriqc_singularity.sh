@@ -16,9 +16,9 @@
 #-----------------------------------------------------------------------------------------------
 #define variables
 version=22.0.6 # mriqc version to use
-projectmassive=${SLURM_JOB_ACCOUNT} # MASSIVE project ID set at the top of the script, e.g. #SBATCH --account=fc37
+projectmassive=${SLURM_JOB_ACCOUNT} # HPC project/account ID — set via #SBATCH --account above
 datasetname=PsiConnect # dataset folder name
-datasetdir=/scratch2/${projectmassive}/${datasetname}
+datasetdir=/scratch2/${projectmassive}/${datasetname} # /scratch2/${projectmassive}/ is the Monash MASSIVE path structure; adjust to match your HPC
 bidsdir=${datasetdir}/bids # path to a valid BIDS dataset (check with BIDS validator first!)
 derivsdir=${datasetdir}/derivatives/mriqc-${version} # where the derivatives will go
 singularity_image=<insert path to .simg file here>
@@ -31,7 +31,7 @@ memgb=$(($memmb / 1000)) # divide to get GB
 # --------------------------------------------------------------------------------------------------
 module purge # always purge modules in job arrays to ensure consistent environments
 unset PYTHONPATH
-module load singularity/3.7.1
+module load singularity/3.7.1 # adjust version to match your HPC environment
 
 echo "SLURM_ARRAY_TASK_ID is ${SLURM_ARRAY_TASK_ID}" # print SLURM array task ID
 echo "subject ${subject}" # print subject ID

@@ -1,12 +1,11 @@
 clear
-addpath("/path/to/spm") % load latest spm
+addpath("/path/to/spm") % SPM12: https://www.fil.ion.ucl.ac.uk/spm/
 
-% we'll use bids-matlab to parse BIDS file names. You can download it from
-% GitHub: https://github.com/bids-standard/bids-matlab
+% bids-matlab is used to parse BIDS filenames (https://github.com/bids-standard/bids-matlab)
 addpath("/path/to/bids-matlab")
 
 %% define paths and variables
-dir_base        = 'PsiConnect';
+dir_base        = '/path/to/PsiConnect'; % absolute path to the dataset root folder
 dir_bids        = fullfile(dir_base,'bids');
 tedana_v        = '0.0.12';
 dir_fmriprep    = fullfile(dir_base,'derivatives','fmriprep-22.0.2');

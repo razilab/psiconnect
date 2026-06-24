@@ -17,7 +17,7 @@
 #define variables
 tedanaversion=0.0.12 # tedana version to use
 fmriprepversion=22.0.2 # fmriprep folder to use
-projectmassive=${SLURM_JOB_ACCOUNT} # MASSIVE project ID set at the top of the script, e.g. #SBATCH --account=fc37
+projectmassive=${SLURM_JOB_ACCOUNT} # HPC project/account ID — set via #SBATCH --account above
 datasetname=PsiConnect # dataset folder name
 datasetdir=/scratch2/${projectmassive}/${datasetname}
 bidsdir=${datasetdir}/bids # path to a valid BIDS dataset (check with BIDS validator first!)

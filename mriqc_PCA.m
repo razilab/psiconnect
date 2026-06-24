@@ -1,11 +1,16 @@
 clear
 
-% choose whether to analyse BOLD or T1 QC metrics
-bold      = true; % true=BOLD, false=T1
+%% ====== USER-CONFIGURABLE SETTINGS ======
 
-font_size = 12;
+% Path to the mriqc derivatives folder (output of mriqc_singularity.sh)
+dir_mriqc   = '/path/to/PsiConnect/derivatives/mriqc-22.0.6';
 
-%% import group file from MRIwc folder
+% Choose whether to analyse BOLD or T1 QC metrics
+bold        = true;   % true = BOLD, false = T1w
+
+font_size   = 12;
+
+%% Load group-level QC metrics from mriqc output
 if bold
     qc          = tdfread(fullfile(dir_mriqc,"group_bold.tsv"));
 else
@@ -22,9 +27,6 @@ qc              = struct2table(qc);
 qc              = splitvars(qc,"bids_name","NewVariableNames",new_vars);
 % convert selected fields from string to numeric format
 qc.ses          = str2double(qc.ses);
- %qc.ses          = strrep(qc.ses,"01","Baseline");
- %qc.ses          = strrep(qc.ses,"02","Administration");
- %qc.ses          = categorical(qc.ses,["Baseline","Administration"],"Ordinal",true);
 qc.run          = str2double(qc.run);
 if bold
     qc.echo     = str2double(qc.echo);
@@ -61,20 +63,10 @@ if bold
     [p,h]       = ranksum(fd1,fd2)
     [h,p]       = kstest2(fd1,fd2)
     
-    % figure("Name",strcat(feature_of_interest," ",group_by," ",groups(1)," vs ",groups(2))');
-    % histogram(fd1,20,"DisplayName",groups(1))
-    % hold on
-    % histogram(fd2,20,"DisplayName",groups(2))
-    % xlabel(feature_of_interest,"Interpreter","none")
-    % legend
-    
     fig         = figure();
     fig.Name    = strcat(feature_of_interest," ",group_by," ",groups(1)," vs ",groups(2));
     fig.Color   = [1,1,1];
     fig.Position = [481 219 382 376];
-    % boxplot([fd1;fd2],[repmat(groups(1),size(fd1));repmat(groups(2),size(fd2))])
-    % %xlabel(group_by)
-    % ylabel(feature_of_interest,"Interpreter","none")
     hold on
     swarmchart(x1*2-0.3,fd1,"o","filled","MarkerFaceColor","#0072BD",...
         "MarkerFaceAlpha",0.2,"MarkerEdgeAlpha",0.5,"XJitterWidth",0.5)
@@ -215,9 +207,6 @@ if bold
         axes(ax_list(i_ax));
         ylim([0, ymax_across * 1.025]);
     end
-
-    % Overall title
-    %title(tl, "Framewise Displacement by Condition");
 end
 
 
@@ -264,16 +253,8 @@ if ~bold
 
     lgd                 = legend(["Outliers","No Psilocybin","Psilocybin"," "," "]);
     lgd.Location        = "southoutside";
-    %lgd.Orientation     = "horizontal";
     lgd.Box             = false;
     lgd.NumColumns      = 1;
-    %lgd.IconColumnWidth = 10;
-    
-    % figure("Name","PCA of MRIqc features");
-    % colours = qc.ses; % for T1w
-    % s = scatter3(U(:,1),U(:,2),U(:,3),15,colours,"filled");
-    % s.DataTipTemplate.DataTipRows = DataTipRows;
-    % title("3D PCA Embedding")
 
     xlabel("Principal component 1")
     ylabel("Principal component 2")
@@ -324,7 +305,6 @@ if bold
     
     lgd                 = legend(["Large head motion","Echos: 1","2","3","4"]);
     lgd.Location        = "southoutside";
-    %lgd.Orientation     = "horizontal";
     lgd.Box             = false;
     lgd.NumColumns      = 1;
     %lgd.IconColumnWidth = 10;
@@ -380,16 +360,13 @@ if bold
     end
     xlim([-0.075,0.04])
     ylim([-0.055,0.15])
-    %title("2D PCA Embedding")
     colormap("lines")
     box on
     
     lgd                 = legend(["Large head motion","Rest","Meditation","Music","Movie"]);
     lgd.Location        = "southoutside";
-    %lgd.Orientation     = "horizontal";
     lgd.Box             = false;
     lgd.NumColumns      = 1;
-    %lgd.IconColumnWidth = 10;
 
     xlabel("Principal component 1")
     ylabel("Principal component 2")
@@ -434,7 +411,6 @@ if bold
     end
     xlim([-0.075,0.04])
     ylim([-0.055,0.15])
-    %title("2D PCA Embedding")
     colormap("lines")
     box on
 
@@ -444,10 +420,8 @@ if bold
 
     lgd                 = legend(["Large head motion","Psilocybin","No Psilocybin"," "," "]);
     lgd.Location        = "southoutside";
-    %lgd.Orientation     = "horizontal";
     lgd.Box             = false;
     lgd.NumColumns      = 1;
-    %lgd.IconColumnWidth = 10;
 
     xlabel("Principal component 1")
     ylabel("Principal component 2")
@@ -513,17 +487,3 @@ max_loading_variable_pc1 = loadings_table_pc1.Variable{1};
 max_loading_variable_pc2 = loadings_table_pc2.Variable{1};
 disp(['The variable that loads the most on the first principal component is: ', max_loading_variable_pc1]);
 disp(['The variable that loads the most on the second principal component is: ', max_loading_variable_pc2]);
-
-%% 2D and 3D t-SNE
-Y = tsne(table2array(removevars(qc,new_vars)),"Standardize",true);
-figure
-gscatter(Y(:,1),Y(:,2),qc.echo)
-title("2D t-SNE Embedding")
-
-% 3D
-Y2 = tsne(table2array(removevars(qc,new_vars)),...
-    "Standardize",true,...
-    "NumDimensions",3);
-figure
-scatter3(Y2(:,1),Y2(:,2),Y2(:,3),15,qc.echo,"filled")
-title("3D t-SNE Embedding")
