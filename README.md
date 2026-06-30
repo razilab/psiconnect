@@ -34,6 +34,8 @@ This repository can be used to reproduce the results reported in:
 | [bids-matlab](https://github.com/bids-standard/bids-matlab) | 0.1.0 |
 | [Brain Connectivity Toolbox](https://sites.google.com/site/bctnet/) | 2022.12.08 |
 | [BrainEigenmodes](https://github.com/james-pang/BrainEigenmodes) | 2024.06.11 |
+| [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php) | 2021.0 |
+| [FieldTrip](https://www.fieldtriptoolbox.org/) | 20240916 |
 | Singularity | 3.7.1 |
 | [tedana](https://tedana.readthedocs.io/en/stable/index.html) | 0.0.12 |
 | FSL | 6.0.7 |
@@ -41,11 +43,9 @@ This repository can be used to reproduce the results reported in:
 
 ### Dependency notes
 
-- Add **SPM12** to your MATLAB path.
-- Add **bids-matlab** to your MATLAB path.
-- Add **BrainEigenmodes** to your MATLAB path.
 - **Brain Connectivity Toolbox** is required for `modularity()` in `FC_diff_matrix.m`.
 - **BrainEigenmodes** is required for surface plotting and colormaps.
+- **EEGLAB** and **FieldTrip** are required for EEG analysis and plotting.
 - **Singularity** is only needed on HPC systems for fMRIPrep, MRIQC, and Tedana containers.
 - **FSL** is only needed for `ROI_time_series_extraction_single.m`.
 - **Python** is required for behavioural plotting scripts.
@@ -64,15 +64,16 @@ Required Python packages:
 
 The analysis pipeline is organised into the following broad stages:
 
-1. Quality control
-2. Preprocessing
-3. Cleaning
-4. ROI time series extraction
-5. Functional connectivity analysis
-6. Surface-based global functional connectivity analysis
-7. Spectral DCM
-8. Behavioural measures plotting
-9. Helper functions
+- Quality control
+- Preprocessing
+- Cleaning
+- ROI time series extraction
+- Functional connectivity analysis
+- Surface-based global functional connectivity analysis
+- Spectral DCM
+- EEG analysis
+- Behavioural measures plotting
+- Helper functions
 
 Each stage is described below:
 
@@ -97,7 +98,7 @@ Each stage is described below:
 ### Cleaning
 
 - `tedana.sh`  
-  SLURM job array that runs [Tedana](https://tedana.readthedocs.io/) for ME-ICA component classification, then registers outputs to MNI space.
+  SLURM job array that runs [tedana](https://tedana.readthedocs.io/) for ME-ICA component classification, then registers outputs to MNI space.
 
 - `glm_tedana_cleaning.m`  
   Runs SPM12 GLM confound regression using motion parameters, CSF, white matter, and Tedana-rejected ICA components. Optionally also regresses the global signal.
@@ -106,21 +107,13 @@ Each stage is described below:
 
 ### ROI time series extraction
 
-This stage assumes that ROI masks are available as individual NIFTI files under:
-
-```text
-derivatives/parcellations/
-```
+This stage assumes that ROI masks are available as individual NIFTI files under `derivatives/parcellations/`
 
 - `ROI_time_series_extraction.sh`  
   SLURM job array that runs `ROI_time_series_extraction_single.m` for each participant.
 
 - `ROI_time_series_extraction_single.m`  
-  Reslices ROI masks to BOLD space, extracts the first principal component of each ROI, and saves the output to:
-
-```text
-derivatives/timeseries/
-```
+  Reslices ROI masks to BOLD space, extracts the first principal component of each ROI, and saves the output to `derivatives/timeseries/`
 
 ---
 
@@ -150,13 +143,20 @@ derivatives/timeseries/
 
 ---
 
+### EEG analysis
+
+- `eeg_compute_spectrum.m`  
+  Computes power spectrum via Fast Fourier Transform (FFT).
+- `eeg_CSD_2D_to_3D.m`  
+  Reshapes 2D cross-spectral density vectors into 3D tensors (Channels x Channels x Frequencies).
+- `eeg_plots.m`  
+  Plots power spectra across frequency ranges (Theta, Alpha, Beta, Gamma), and Lempel-Ziv complexity.
+
+---
+
 ### Behavioural measures plotting
 
-All behavioural plotting scripts read scored phenotype TSV files from:
-
-```text
-derivatives/phenotype/scored/
-```
+All behavioural plotting scripts read scored phenotype TSV files from `derivatives/phenotype/scored/`
 
 Before running these scripts, set `dir_phenotype` at the top of each script.
 
@@ -169,17 +169,8 @@ Before running these scripts, set `dir_phenotype` at the top of each script.
 - `experience_intensity_histogram.py`  
   Plots a histogram of subjective psilocybin experience intensity ratings.
 
-- `sensory_vs_egodissolution_scatter.py`  
-  Plots sensory experience scores against ego dissolution scores using ASC11 subscales.
-
 - `ASC11_subgroups_correlation_heatmap.py`  
   Plots Pearson correlation heatmaps of ASC11 subscales across participant subgroups.
-
-- `MEDEQ_vs_experience_regression.py`  
-  Runs linear regression and reports R² values for MEDEQ meditation experience predicting ASC11 and MEQ30 scores.
-
-- `MINDSET_vs_experience_corr.py`  
-  Plots Pearson correlations between MINDSET 1-day follow-up scores and psilocybin experience scores.
 
 ---
 
@@ -199,6 +190,9 @@ Before running these scripts, set `dir_phenotype` at the top of each script.
 
 - `plot_surface_fsLR_32k.m`  
   Plots a data vector on the fsLR-32k cortical surface mesh.
+
+- `LZ_complexity_1976.m`  
+  Calculates Lempel-Ziv algorithmic complexity.
 
 ---
 
@@ -220,8 +214,8 @@ PsiConnect/
 │   ├── parcellations/
 │   ├── timeseries/
 │   ├── spDCM/
+│   ├── EEG/
 │   └── phenotype/
-│       └── scored/
 └── ...
 ```
 
