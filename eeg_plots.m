@@ -1,13 +1,13 @@
 %% path and parameters
-ROOT_DIR    = "/path/to/PsiConnect/folder"; 
+dir_base    = "/path/to/PsiConnect/folder"; 
 FT_PATH     = "/path/to/fieldtrip-toolbox";
 
 addpath(FT_PATH);
 ft_defaults;
 
-dir_clean   = fullfile(ROOT_DIR, "derivatives", "EEG", "cleaned_RELAX", "FieldTrip_format");
-f_layout    = fullfile(ROOT_DIR, "derivatives", "EEG", "1010_layout.mat");
-dir_out_root= fullfile(ROOT_DIR, "results", "EEG");
+dir_clean   = fullfile(dir_base, "derivatives", "EEG", "cleaned_RELAX", "FieldTrip_format");
+f_layout    = fullfile(dir_base, "derivatives", "EEG", "1010_layout.mat");
+dir_out_root= fullfile(dir_base, "results", "EEG");
 
 taskorder   = ["rest","meditation","music","movie"];
 task_n      = length(taskorder);

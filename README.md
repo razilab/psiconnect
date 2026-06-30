@@ -149,6 +149,8 @@ This stage assumes that ROI masks are available as individual NIFTI files under 
   Computes power spectrum via Fast Fourier Transform (FFT).
 - `eeg_CSD_2D_to_3D.m`  
   Reshapes 2D cross-spectral density vectors into 3D tensors (Channels x Channels x Frequencies).
+- `eeg_LZ.m`  
+  Computes Lempel-Ziv complexity using `LZ_complexity_1976.m` (see helper functions below).
 - `eeg_plots.m`  
   Plots power spectra across frequency ranges (Theta, Alpha, Beta, Gamma), and Lempel-Ziv complexity.
 

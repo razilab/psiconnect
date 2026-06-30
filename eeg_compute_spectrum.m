@@ -10,9 +10,9 @@
 
 clear;
 
-%% 1. Path & Parameter Configuration
+%% Path & Parameter Configuration
 % MODIFY THESE PATHS FOR YOUR LOCAL SYSTEM
-ROOT_DIR     = "/path/to/PsiConnect/folder"; 
+dir_base     = "/path/to/PsiConnect/folder"; 
 FT_PATH      = "/path/to/fieldtrip-toolbox";
 
 % Setup environment
@@ -20,7 +20,7 @@ addpath(FT_PATH);
 ft_defaults;
 
 % Define data directories based on the root path
-dir_clean    = fullfile(ROOT_DIR, "derivatives", "EEG", "cleaned_RELAX");
+dir_clean    = fullfile(dir_base, "derivatives", "EEG", "cleaned_RELAX");
 dir_FT       = fullfile(dir_clean, "FieldTrip_format");
 
 taskorder    = ["movie", "rest", "meditation", "music"];
@@ -33,7 +33,7 @@ exclude      = ["sub-PC011", "sub-PC016", "sub-PC024", "sub-PC212", ...
                 "sub-PC033_ses-01_task-movie", "sub-PC033_ses-02_task-movie", ...
                 "sub-PC201_ses-01_task-movie", "sub-PC201_ses-02_task-movie"];
 
-%% 2. Convert EEGLAB (.set) to FieldTrip Format
+%% Convert EEGLAB (.set) to FieldTrip Format
 dir_in  = dir_clean;
 dir_out = dir_FT;
 
@@ -69,7 +69,7 @@ for ses = sessions
     end
 end
 
-%% 3. Fourier Transform (FFT Power Spectrum via Welch's Method)
+%% Fourier Transform (FFT Power Spectrum via Welch's Method)
 dir_in  = dir_FT;
 dir_out = fullfile(dir_FT, "FFT");
 
@@ -121,7 +121,7 @@ for ses = sessions
     end
 end
 
-%% 4. Cross-spectral density Analysis
+%% Cross-spectral density Analysis
 dir_in  = dir_FT;
 dir_out = fullfile(dir_FT, "CSD");
 

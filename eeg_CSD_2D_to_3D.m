@@ -1,7 +1,7 @@
 %% Transform 2D Cross-Spectral Density Maps into 3D Tensors
 clear
 
-%% Configuration Root Path
+%% Configure root path
 dir_base = "/path/to/PsiConnect/folder";
 dir_csd  = fullfile(dir_base, "derivatives", "EEG", "cleaned_RELAX", "FieldTrip_format", "CSD");
 
