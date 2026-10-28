@@ -1,0 +1,961 @@
+Condition,Cohort,ParticipantLabel,Phase,Repeat,Silhouette
+No psilocybin,Low MEQ,P1,rest,1,0.0342235307785703
+No psilocybin,Low MEQ,P1,rest,2,-0.0363584090926803
+No psilocybin,Low MEQ,P1,rest,3,-0.2411383437696303
+No psilocybin,Low MEQ,P1,rest,4,-0.1368905258633592
+No psilocybin,Low MEQ,P1,rest,5,0.056729434163706
+No psilocybin,Low MEQ,P1,rest,6,-0.060983083829914
+No psilocybin,Low MEQ,P1,rest,7,-0.2061296338912466
+No psilocybin,Low MEQ,P1,rest,8,-0.206699524145265
+No psilocybin,Low MEQ,P1,rest,9,-0.257826090500441
+No psilocybin,Low MEQ,P1,rest,10,0.0777449424870695
+No psilocybin,Low MEQ,P1,meditation,1,-0.1877617873797605
+No psilocybin,Low MEQ,P1,meditation,2,-0.155553177980612
+No psilocybin,Low MEQ,P1,meditation,3,-0.208010377781764
+No psilocybin,Low MEQ,P1,meditation,4,-0.2604519997879349
+No psilocybin,Low MEQ,P1,meditation,5,-0.1682066552507122
+No psilocybin,Low MEQ,P1,meditation,6,-0.1913336215873167
+No psilocybin,Low MEQ,P1,meditation,7,-0.1948302705613439
+No psilocybin,Low MEQ,P1,meditation,8,-0.2474993085036163
+No psilocybin,Low MEQ,P1,meditation,9,-0.4386187747998396
+No psilocybin,Low MEQ,P1,meditation,10,-0.2754414951617295
+No psilocybin,Low MEQ,P1,music,1,0.0228857660971336
+No psilocybin,Low MEQ,P1,music,2,-0.1018823260276094
+No psilocybin,Low MEQ,P1,music,3,0.0047505227217754
+No psilocybin,Low MEQ,P1,music,4,0.2656072257616442
+No psilocybin,Low MEQ,P1,music,5,0.2228876553994803
+No psilocybin,Low MEQ,P1,music,6,0.179174165212983
+No psilocybin,Low MEQ,P1,music,7,0.2288388875917741
+No psilocybin,Low MEQ,P1,music,8,0.1074757661397627
+No psilocybin,Low MEQ,P1,music,9,0.1886720694817884
+No psilocybin,Low MEQ,P1,music,10,0.2694146133283673
+No psilocybin,Low MEQ,P1,movie,1,-0.0903161171693913
+No psilocybin,Low MEQ,P1,movie,2,0.0340877656517456
+No psilocybin,Low MEQ,P1,movie,3,0.5132082072571232
+No psilocybin,Low MEQ,P1,movie,4,0.5209294236880094
+No psilocybin,Low MEQ,P1,movie,5,-0.1751770982964988
+No psilocybin,Low MEQ,P1,movie,6,0.1022716449997215
+No psilocybin,Low MEQ,P1,movie,7,0.3027710532369875
+No psilocybin,Low MEQ,P1,movie,8,0.3523450633079579
+No psilocybin,Low MEQ,P1,movie,9,0.8073099428077581
+No psilocybin,Low MEQ,P1,movie,10,-0.0813202907185712
+No psilocybin,Low MEQ,P2,rest,1,0.0424304014930614
+No psilocybin,Low MEQ,P2,rest,2,-0.025240299203444
+No psilocybin,Low MEQ,P2,rest,3,0.0699800657950577
+No psilocybin,Low MEQ,P2,rest,4,-0.1705558253517743
+No psilocybin,Low MEQ,P2,rest,5,0.0434069250417818
+No psilocybin,Low MEQ,P2,rest,6,0.1490182997694387
+No psilocybin,Low MEQ,P2,rest,7,-0.1195299853479341
+No psilocybin,Low MEQ,P2,rest,8,0.3117467958438009
+No psilocybin,Low MEQ,P2,rest,9,0.019633553325661
+No psilocybin,Low MEQ,P2,rest,10,-0.0585718253483289
+No psilocybin,Low MEQ,P2,meditation,1,-0.1396520259572229
+No psilocybin,Low MEQ,P2,meditation,2,-0.1693223266476571
+No psilocybin,Low MEQ,P2,meditation,3,-0.1648409836309401
+No psilocybin,Low MEQ,P2,meditation,4,0.0163136988291728
+No psilocybin,Low MEQ,P2,meditation,5,-0.159807279846484
+No psilocybin,Low MEQ,P2,meditation,6,-0.2814532361399058
+No psilocybin,Low MEQ,P2,meditation,7,0.1152109053949781
+No psilocybin,Low MEQ,P2,meditation,8,-0.1794860864853573
+No psilocybin,Low MEQ,P2,meditation,9,-0.0376472276902696
+No psilocybin,Low MEQ,P2,meditation,10,0.0871375972772134
+No psilocybin,Low MEQ,P2,music,1,-0.291579521400243
+No psilocybin,Low MEQ,P2,music,2,-0.1596503362080469
+No psilocybin,Low MEQ,P2,music,3,-0.1557859680481374
+No psilocybin,Low MEQ,P2,music,4,-0.1267514956073176
+No psilocybin,Low MEQ,P2,music,5,-0.3597158756410923
+No psilocybin,Low MEQ,P2,music,6,-0.2311169218213513
+No psilocybin,Low MEQ,P2,music,7,-0.4184008522125474
+No psilocybin,Low MEQ,P2,music,8,-0.3819225903321236
+No psilocybin,Low MEQ,P2,music,9,-0.0295485523040739
+No psilocybin,Low MEQ,P2,music,10,-0.3022160830366222
+No psilocybin,Low MEQ,P2,movie,1,0.4108260132811256
+No psilocybin,Low MEQ,P2,movie,2,0.1226379582295863
+No psilocybin,Low MEQ,P2,movie,3,0.4269110843403894
+No psilocybin,Low MEQ,P2,movie,4,0.0792147413760278
+No psilocybin,Low MEQ,P2,movie,5,0.5411060205409555
+No psilocybin,Low MEQ,P2,movie,6,0.4454985349749987
+No psilocybin,Low MEQ,P2,movie,7,0.8007262179441361
+No psilocybin,Low MEQ,P2,movie,8,0.5835773457774358
+No psilocybin,Low MEQ,P2,movie,9,-0.0526146674191584
+No psilocybin,Low MEQ,P2,movie,10,0.3308353013600481
+No psilocybin,Low MEQ,P3,rest,1,0.7372840336202451
+No psilocybin,Low MEQ,P3,rest,2,0.4372615598809804
+No psilocybin,Low MEQ,P3,rest,3,0.0062276991246731
+No psilocybin,Low MEQ,P3,rest,4,0.7302755555425996
+No psilocybin,Low MEQ,P3,rest,5,0.585043444214533
+No psilocybin,Low MEQ,P3,rest,6,0.5360528041772479
+No psilocybin,Low MEQ,P3,rest,7,0.2754888025643508
+No psilocybin,Low MEQ,P3,rest,8,-0.2618633148538207
+No psilocybin,Low MEQ,P3,rest,9,0.2470006545352241
+No psilocybin,Low MEQ,P3,rest,10,-0.2247617559083971
+No psilocybin,Low MEQ,P3,meditation,1,0.988235211185501
+No psilocybin,Low MEQ,P3,meditation,2,0.8424580150885678
+No psilocybin,Low MEQ,P3,meditation,3,0.9520139546911548
+No psilocybin,Low MEQ,P3,meditation,4,0.9582579661046948
+No psilocybin,Low MEQ,P3,meditation,5,0.9703094083802448
+No psilocybin,Low MEQ,P3,meditation,6,0.965822155616842
+No psilocybin,Low MEQ,P3,meditation,7,0.9668737487298538
+No psilocybin,Low MEQ,P3,meditation,8,0.9122691918295736
+No psilocybin,Low MEQ,P3,meditation,9,0.7987343960367913
+No psilocybin,Low MEQ,P3,meditation,10,0.9595180760710896
+No psilocybin,Low MEQ,P3,music,1,0.4279580004309526
+No psilocybin,Low MEQ,P3,music,2,0.6210556481625241
+No psilocybin,Low MEQ,P3,music,3,-0.0308346596422166
+No psilocybin,Low MEQ,P3,music,4,0.1694484395699729
+No psilocybin,Low MEQ,P3,music,5,0.3342742981182243
+No psilocybin,Low MEQ,P3,music,6,0.3544843152452712
+No psilocybin,Low MEQ,P3,music,7,0.3787017695946796
+No psilocybin,Low MEQ,P3,music,8,0.3632011176421976
+No psilocybin,Low MEQ,P3,music,9,0.2655128736044774
+No psilocybin,Low MEQ,P3,music,10,-0.0192003174809068
+No psilocybin,Low MEQ,P3,movie,1,0.8381403238791865
+No psilocybin,Low MEQ,P3,movie,2,0.119869415936156
+No psilocybin,Low MEQ,P3,movie,3,-0.2022227035388345
+No psilocybin,Low MEQ,P3,movie,4,0.1771422860256798
+No psilocybin,Low MEQ,P3,movie,5,-0.0712209812267909
+No psilocybin,Low MEQ,P3,movie,6,0.5002355662235695
+No psilocybin,Low MEQ,P3,movie,7,0.1736489253735245
+No psilocybin,Low MEQ,P3,movie,8,0.3000984047452949
+No psilocybin,Low MEQ,P3,movie,9,-0.0095424789851813
+No psilocybin,Low MEQ,P3,movie,10,0.5549962012131305
+No psilocybin,Low MEQ,P4,rest,1,-0.0760275193125524
+No psilocybin,Low MEQ,P4,rest,2,-0.1768661569933131
+No psilocybin,Low MEQ,P4,rest,3,-0.2854837390705393
+No psilocybin,Low MEQ,P4,rest,4,-0.2645957662979028
+No psilocybin,Low MEQ,P4,rest,5,-0.1131273044223566
+No psilocybin,Low MEQ,P4,rest,6,-0.0381124247947047
+No psilocybin,Low MEQ,P4,rest,7,-0.1655938746305531
+No psilocybin,Low MEQ,P4,rest,8,-0.3260771814787558
+No psilocybin,Low MEQ,P4,rest,9,-0.1968943208456012
+No psilocybin,Low MEQ,P4,rest,10,-0.1853469757350895
+No psilocybin,Low MEQ,P4,meditation,1,-0.0951675283831276
+No psilocybin,Low MEQ,P4,meditation,2,0.0235879518604933
+No psilocybin,Low MEQ,P4,meditation,3,0.1778504031422928
+No psilocybin,Low MEQ,P4,meditation,4,0.1984585418669797
+No psilocybin,Low MEQ,P4,meditation,5,0.2493265894194683
+No psilocybin,Low MEQ,P4,meditation,6,0.1249780001112573
+No psilocybin,Low MEQ,P4,meditation,7,-0.0095739895458827
+No psilocybin,Low MEQ,P4,meditation,8,0.0666684793108201
+No psilocybin,Low MEQ,P4,meditation,9,0.1512768740764552
+No psilocybin,Low MEQ,P4,meditation,10,0.22054463385351
+No psilocybin,Low MEQ,P4,music,1,-0.0445192437773655
+No psilocybin,Low MEQ,P4,music,2,0.1438591879468165
+No psilocybin,Low MEQ,P4,music,3,0.1841990606293121
+No psilocybin,Low MEQ,P4,music,4,0.047617293574525
+No psilocybin,Low MEQ,P4,music,5,0.0089564650374307
+No psilocybin,Low MEQ,P4,music,6,-0.1834855856607196
+No psilocybin,Low MEQ,P4,music,7,0.0671908731570943
+No psilocybin,Low MEQ,P4,music,8,0.1262312838337036
+No psilocybin,Low MEQ,P4,music,9,-0.1383640107327888
+No psilocybin,Low MEQ,P4,music,10,0.0306353848959021
+No psilocybin,Low MEQ,P4,movie,1,0.0443972007190224
+No psilocybin,Low MEQ,P4,movie,2,0.0452357360119777
+No psilocybin,Low MEQ,P4,movie,3,0.1815482792589616
+No psilocybin,Low MEQ,P4,movie,4,0.76769207038047
+No psilocybin,Low MEQ,P4,movie,5,0.07219982082796
+No psilocybin,Low MEQ,P4,movie,6,0.6242395307072415
+No psilocybin,Low MEQ,P4,movie,7,0.4775973230651494
+No psilocybin,Low MEQ,P4,movie,8,0.3023446677640549
+No psilocybin,Low MEQ,P4,movie,9,0.0937722426106603
+No psilocybin,Low MEQ,P4,movie,10,0.5354287626068882
+No psilocybin,Low MEQ,P5,rest,1,0.1295893921467707
+No psilocybin,Low MEQ,P5,rest,2,0.1314097950287279
+No psilocybin,Low MEQ,P5,rest,3,-0.036604467031191
+No psilocybin,Low MEQ,P5,rest,4,0.1117903180334836
+No psilocybin,Low MEQ,P5,rest,5,0.2198216075310631
+No psilocybin,Low MEQ,P5,rest,6,0.0523381961451364
+No psilocybin,Low MEQ,P5,rest,7,-0.0555626320099788
+No psilocybin,Low MEQ,P5,rest,8,0.1565069961090617
+No psilocybin,Low MEQ,P5,rest,9,-0.1222686736038678
+No psilocybin,Low MEQ,P5,rest,10,0.0639243152369684
+No psilocybin,Low MEQ,P5,meditation,1,0.1563990242473334
+No psilocybin,Low MEQ,P5,meditation,2,0.2645821287668179
+No psilocybin,Low MEQ,P5,meditation,3,0.6576307867547189
+No psilocybin,Low MEQ,P5,meditation,4,-0.1964849541256889
+No psilocybin,Low MEQ,P5,meditation,5,-0.046816427441913
+No psilocybin,Low MEQ,P5,meditation,6,0.1874540970541755
+No psilocybin,Low MEQ,P5,meditation,7,0.3693322498866107
+No psilocybin,Low MEQ,P5,meditation,8,0.3661995582265228
+No psilocybin,Low MEQ,P5,meditation,9,-0.1330262451363413
+No psilocybin,Low MEQ,P5,meditation,10,0.0736479596928252
+No psilocybin,Low MEQ,P5,music,1,0.1180920966707421
+No psilocybin,Low MEQ,P5,music,2,-0.1688240266958572
+No psilocybin,Low MEQ,P5,music,3,0.302262403206827
+No psilocybin,Low MEQ,P5,music,4,0.3495714735280664
+No psilocybin,Low MEQ,P5,music,5,0.2650633734788708
+No psilocybin,Low MEQ,P5,music,6,-0.0127207309991402
+No psilocybin,Low MEQ,P5,music,7,0.172285269361654
+No psilocybin,Low MEQ,P5,music,8,0.2932815820315127
+No psilocybin,Low MEQ,P5,music,9,0.1874385702762692
+No psilocybin,Low MEQ,P5,music,10,-0.0055620464625029
+No psilocybin,Low MEQ,P5,movie,1,0.304190412116281
+No psilocybin,Low MEQ,P5,movie,2,0.0800237436556344
+No psilocybin,Low MEQ,P5,movie,3,0.0521195174127541
+No psilocybin,Low MEQ,P5,movie,4,0.0759719158588449
+No psilocybin,Low MEQ,P5,movie,5,0.0364335352254427
+No psilocybin,Low MEQ,P5,movie,6,0.2352715156108604
+No psilocybin,Low MEQ,P5,movie,7,0.5305287433522887
+No psilocybin,Low MEQ,P5,movie,8,0.1029744709343754
+No psilocybin,Low MEQ,P5,movie,9,0.2116522808248702
+No psilocybin,Low MEQ,P5,movie,10,0.3769678613200005
+No psilocybin,Low MEQ,P6,rest,1,0.4301640145977367
+No psilocybin,Low MEQ,P6,rest,2,0.2775446830859455
+No psilocybin,Low MEQ,P6,rest,3,0.3423124242150924
+No psilocybin,Low MEQ,P6,rest,4,0.4155473667819289
+No psilocybin,Low MEQ,P6,rest,5,0.3515561847035285
+No psilocybin,Low MEQ,P6,rest,6,0.3331159826343596
+No psilocybin,Low MEQ,P6,rest,7,0.3683735594502313
+No psilocybin,Low MEQ,P6,rest,8,0.2646665976126616
+No psilocybin,Low MEQ,P6,rest,9,0.4944663805634839
+No psilocybin,Low MEQ,P6,rest,10,0.1085091417461612
+No psilocybin,Low MEQ,P6,meditation,1,-0.3095728568694881
+No psilocybin,Low MEQ,P6,meditation,2,-0.3236821564702075
+No psilocybin,Low MEQ,P6,meditation,3,-0.252269361693534
+No psilocybin,Low MEQ,P6,meditation,4,-0.4400815520104176
+No psilocybin,Low MEQ,P6,meditation,5,-0.210868379662015
+No psilocybin,Low MEQ,P6,meditation,6,-0.3196721655506554
+No psilocybin,Low MEQ,P6,meditation,7,-0.3625834206555781
+No psilocybin,Low MEQ,P6,meditation,8,-0.3497689302419107
+No psilocybin,Low MEQ,P6,meditation,9,-0.4427465789523883
+No psilocybin,Low MEQ,P6,meditation,10,-0.2172895883524565
+No psilocybin,Low MEQ,P6,music,1,-0.2949605303874499
+No psilocybin,Low MEQ,P6,music,2,-0.2787228123628777
+No psilocybin,Low MEQ,P6,music,3,-0.3606005472043272
+No psilocybin,Low MEQ,P6,music,4,0.0051709208598091
+No psilocybin,Low MEQ,P6,music,5,-0.3272885719649611
+No psilocybin,Low MEQ,P6,music,6,-0.397823275307594
+No psilocybin,Low MEQ,P6,music,7,-0.2774401549039261
+No psilocybin,Low MEQ,P6,music,8,-0.2544258450793819
+No psilocybin,Low MEQ,P6,music,9,-0.1991935618125535
+No psilocybin,Low MEQ,P6,music,10,-0.3126477353869811
+No psilocybin,Low MEQ,P6,movie,1,0.6294358441619898
+No psilocybin,Low MEQ,P6,movie,2,0.7815822656247954
+No psilocybin,Low MEQ,P6,movie,3,0.7997943361028477
+No psilocybin,Low MEQ,P6,movie,4,0.8166827360535645
+No psilocybin,Low MEQ,P6,movie,5,0.7908777861446182
+No psilocybin,Low MEQ,P6,movie,6,0.771118203452381
+No psilocybin,Low MEQ,P6,movie,7,0.5924567418049174
+No psilocybin,Low MEQ,P6,movie,8,0.6086604096211605
+No psilocybin,Low MEQ,P6,movie,9,0.7049907156940545
+No psilocybin,Low MEQ,P6,movie,10,0.7472788426525905
+No psilocybin,High MEQ,P8,rest,1,-0.0216949465380798
+No psilocybin,High MEQ,P8,rest,2,-0.100583851201192
+No psilocybin,High MEQ,P8,rest,3,-0.0427786576075724
+No psilocybin,High MEQ,P8,rest,4,-0.1441489101919033
+No psilocybin,High MEQ,P8,rest,5,-0.2827968390133849
+No psilocybin,High MEQ,P8,rest,6,-0.2929590915702635
+No psilocybin,High MEQ,P8,rest,7,-0.29453752652116
+No psilocybin,High MEQ,P8,rest,8,-0.0667422793784169
+No psilocybin,High MEQ,P8,rest,9,-0.1906293239475855
+No psilocybin,High MEQ,P8,rest,10,-0.1096878689524542
+No psilocybin,High MEQ,P8,meditation,1,-0.0885698378871063
+No psilocybin,High MEQ,P8,meditation,2,0.0491641517714183
+No psilocybin,High MEQ,P8,meditation,3,-0.1060887518122001
+No psilocybin,High MEQ,P8,meditation,4,-0.0773394501718519
+No psilocybin,High MEQ,P8,meditation,5,-0.0102608223390782
+No psilocybin,High MEQ,P8,meditation,6,0.1857323570870751
+No psilocybin,High MEQ,P8,meditation,7,0.0853597740722559
+No psilocybin,High MEQ,P8,meditation,8,-0.0811453289183034
+No psilocybin,High MEQ,P8,meditation,9,-0.0446540242041753
+No psilocybin,High MEQ,P8,meditation,10,-0.0605238708220534
+No psilocybin,High MEQ,P8,music,1,-0.0789209401587453
+No psilocybin,High MEQ,P8,music,2,-0.105492293378078
+No psilocybin,High MEQ,P8,music,3,-0.0770124341569757
+No psilocybin,High MEQ,P8,music,4,-0.125005024501867
+No psilocybin,High MEQ,P8,music,5,-0.1157576576012404
+No psilocybin,High MEQ,P8,music,6,-0.2185678135003224
+No psilocybin,High MEQ,P8,music,7,-0.2182725970939436
+No psilocybin,High MEQ,P8,music,8,-0.1304605730677095
+No psilocybin,High MEQ,P8,music,9,-0.1556666698795424
+No psilocybin,High MEQ,P8,music,10,-0.1294881376870207
+No psilocybin,High MEQ,P8,movie,1,-0.0340152763413832
+No psilocybin,High MEQ,P8,movie,2,-0.0379512798039699
+No psilocybin,High MEQ,P8,movie,3,-0.0207060217784901
+No psilocybin,High MEQ,P8,movie,4,0.1899003414180693
+No psilocybin,High MEQ,P8,movie,5,0.6792284741599459
+No psilocybin,High MEQ,P8,movie,6,0.5618784951776995
+No psilocybin,High MEQ,P8,movie,7,0.2984074050670522
+No psilocybin,High MEQ,P8,movie,8,0.0765513159205097
+No psilocybin,High MEQ,P8,movie,9,0.5985759072646744
+No psilocybin,High MEQ,P8,movie,10,0.0831487292683809
+No psilocybin,High MEQ,P9,rest,1,0.260247966318367
+No psilocybin,High MEQ,P9,rest,2,0.2428081054344379
+No psilocybin,High MEQ,P9,rest,3,-0.1864878161810998
+No psilocybin,High MEQ,P9,rest,4,0.0303782389123561
+No psilocybin,High MEQ,P9,rest,5,0.2077960458708937
+No psilocybin,High MEQ,P9,rest,6,0.2990500333869895
+No psilocybin,High MEQ,P9,rest,7,0.5516866195869821
+No psilocybin,High MEQ,P9,rest,8,0.278419327369215
+No psilocybin,High MEQ,P9,rest,9,0.1521331249778448
+No psilocybin,High MEQ,P9,rest,10,0.2049600908452564
+No psilocybin,High MEQ,P9,meditation,1,-0.19504008987304
+No psilocybin,High MEQ,P9,meditation,2,-0.2012761087212624
+No psilocybin,High MEQ,P9,meditation,3,0.3310345075917568
+No psilocybin,High MEQ,P9,meditation,4,0.008679186230105
+No psilocybin,High MEQ,P9,meditation,5,-0.2218654662300635
+No psilocybin,High MEQ,P9,meditation,6,-0.3334288483165286
+No psilocybin,High MEQ,P9,meditation,7,-0.2894120646417167
+No psilocybin,High MEQ,P9,meditation,8,-0.0820490870958964
+No psilocybin,High MEQ,P9,meditation,9,0.098132097993919
+No psilocybin,High MEQ,P9,meditation,10,-0.0511627814015339
+No psilocybin,High MEQ,P9,music,1,-0.0380517939808712
+No psilocybin,High MEQ,P9,music,2,-0.2111359209947937
+No psilocybin,High MEQ,P9,music,3,-0.1934255119222428
+No psilocybin,High MEQ,P9,music,4,-0.2922996097035563
+No psilocybin,High MEQ,P9,music,5,-0.2526853262532625
+No psilocybin,High MEQ,P9,music,6,-0.0795523565250747
+No psilocybin,High MEQ,P9,music,7,-0.0253984813408367
+No psilocybin,High MEQ,P9,music,8,-0.195888773185713
+No psilocybin,High MEQ,P9,music,9,-0.2378902512149189
+No psilocybin,High MEQ,P9,music,10,-0.0653620389592075
+No psilocybin,High MEQ,P9,movie,1,0.0612209993158614
+No psilocybin,High MEQ,P9,movie,2,0.5800414243764624
+No psilocybin,High MEQ,P9,movie,3,0.0722114702875943
+No psilocybin,High MEQ,P9,movie,4,0.2608451434005464
+No psilocybin,High MEQ,P9,movie,5,0.3103965667256848
+No psilocybin,High MEQ,P9,movie,6,0.4862751399547994
+No psilocybin,High MEQ,P9,movie,7,0.2078151360118696
+No psilocybin,High MEQ,P9,movie,8,0.4006489136873087
+No psilocybin,High MEQ,P9,movie,9,0.3105508933862702
+No psilocybin,High MEQ,P9,movie,10,0.483378421105508
+No psilocybin,High MEQ,P10,rest,1,0.684112110036968
+No psilocybin,High MEQ,P10,rest,2,0.6494210051602018
+No psilocybin,High MEQ,P10,rest,3,0.7254425375262157
+No psilocybin,High MEQ,P10,rest,4,0.7500808708695211
+No psilocybin,High MEQ,P10,rest,5,0.7203616823455891
+No psilocybin,High MEQ,P10,rest,6,0.5532877214294295
+No psilocybin,High MEQ,P10,rest,7,0.7410155524268046
+No psilocybin,High MEQ,P10,rest,8,0.6232122817723698
+No psilocybin,High MEQ,P10,rest,9,0.6363614455138459
+No psilocybin,High MEQ,P10,rest,10,0.6254218936523595
+No psilocybin,High MEQ,P10,meditation,1,-0.3016526600971808
+No psilocybin,High MEQ,P10,meditation,2,-0.3370454718479277
+No psilocybin,High MEQ,P10,meditation,3,-0.2771891335968756
+No psilocybin,High MEQ,P10,meditation,4,-0.2689712406017141
+No psilocybin,High MEQ,P10,meditation,5,-0.2667182392299074
+No psilocybin,High MEQ,P10,meditation,6,-0.1185582128276181
+No psilocybin,High MEQ,P10,meditation,7,-0.3219097847085358
+No psilocybin,High MEQ,P10,meditation,8,-0.1636817141926816
+No psilocybin,High MEQ,P10,meditation,9,-0.2915846774174415
+No psilocybin,High MEQ,P10,meditation,10,-0.0404599534317255
+No psilocybin,High MEQ,P10,music,1,0.210477708936496
+No psilocybin,High MEQ,P10,music,2,-0.1878392086241195
+No psilocybin,High MEQ,P10,music,3,-0.0643481057116038
+No psilocybin,High MEQ,P10,music,4,-0.2301961822619414
+No psilocybin,High MEQ,P10,music,5,-0.2360464261874062
+No psilocybin,High MEQ,P10,music,6,0.0347373845570259
+No psilocybin,High MEQ,P10,music,7,-0.1211909329825241
+No psilocybin,High MEQ,P10,music,8,0.1137719484039406
+No psilocybin,High MEQ,P10,music,9,0.1978422542114952
+No psilocybin,High MEQ,P10,music,10,-0.0028328712419282
+No psilocybin,High MEQ,P10,movie,1,0.3052357348578967
+No psilocybin,High MEQ,P10,movie,2,0.1194039241225483
+No psilocybin,High MEQ,P10,movie,3,-0.0250916983448251
+No psilocybin,High MEQ,P10,movie,4,0.0867540635936402
+No psilocybin,High MEQ,P10,movie,5,-0.0376389940141254
+No psilocybin,High MEQ,P10,movie,6,0.0916046219047623
+No psilocybin,High MEQ,P10,movie,7,0.0975915888026581
+No psilocybin,High MEQ,P10,movie,8,-0.1497761861377714
+No psilocybin,High MEQ,P10,movie,9,0.0868971027150383
+No psilocybin,High MEQ,P10,movie,10,0.0325474159482583
+No psilocybin,High MEQ,P11,rest,1,-0.1889005838976142
+No psilocybin,High MEQ,P11,rest,2,0.3005646858322212
+No psilocybin,High MEQ,P11,rest,3,0.2503999729410893
+No psilocybin,High MEQ,P11,rest,4,0.1261374961956127
+No psilocybin,High MEQ,P11,rest,5,-0.1170620075623662
+No psilocybin,High MEQ,P11,rest,6,-0.2064456051325413
+No psilocybin,High MEQ,P11,rest,7,0.1162480504669744
+No psilocybin,High MEQ,P11,rest,8,0.0509396340314373
+No psilocybin,High MEQ,P11,rest,9,-0.3010142933002535
+No psilocybin,High MEQ,P11,rest,10,-0.0096209056501432
+No psilocybin,High MEQ,P11,meditation,1,0.0223393276709206
+No psilocybin,High MEQ,P11,meditation,2,-0.1475362182042497
+No psilocybin,High MEQ,P11,meditation,3,-0.3127038109431796
+No psilocybin,High MEQ,P11,meditation,4,-0.1018503526191116
+No psilocybin,High MEQ,P11,meditation,5,0.2565014903326259
+No psilocybin,High MEQ,P11,meditation,6,0.2780590664769936
+No psilocybin,High MEQ,P11,meditation,7,0.2531724544787403
+No psilocybin,High MEQ,P11,meditation,8,0.2884873260065106
+No psilocybin,High MEQ,P11,meditation,9,0.3628360924556298
+No psilocybin,High MEQ,P11,meditation,10,0.0782203804688007
+No psilocybin,High MEQ,P11,music,1,-0.1625275354153083
+No psilocybin,High MEQ,P11,music,2,-0.3519042151950408
+No psilocybin,High MEQ,P11,music,3,-0.2190403761422178
+No psilocybin,High MEQ,P11,music,4,-0.2570252839856096
+No psilocybin,High MEQ,P11,music,5,-0.3021553070768966
+No psilocybin,High MEQ,P11,music,6,-0.3737161752549333
+No psilocybin,High MEQ,P11,music,7,-0.2234520280807607
+No psilocybin,High MEQ,P11,music,8,-0.09195866210316
+No psilocybin,High MEQ,P11,music,9,0.0483960291797067
+No psilocybin,High MEQ,P11,music,10,-0.2043096982818275
+No psilocybin,High MEQ,P11,movie,1,0.9792517872896954
+No psilocybin,High MEQ,P11,movie,2,0.946969613847272
+No psilocybin,High MEQ,P11,movie,3,0.9618585270035682
+No psilocybin,High MEQ,P11,movie,4,0.9476975189333114
+No psilocybin,High MEQ,P11,movie,5,0.7695383231269113
+No psilocybin,High MEQ,P11,movie,6,0.8844043859904764
+No psilocybin,High MEQ,P11,movie,7,0.9004769720656295
+No psilocybin,High MEQ,P11,movie,8,0.9142385519499312
+No psilocybin,High MEQ,P11,movie,9,0.939372608822822
+No psilocybin,High MEQ,P11,movie,10,0.9435695877666614
+No psilocybin,High MEQ,P12,rest,1,0.2689922175119196
+No psilocybin,High MEQ,P12,rest,2,0.124207936417665
+No psilocybin,High MEQ,P12,rest,3,-0.1186082828215933
+No psilocybin,High MEQ,P12,rest,4,0.1072327079668692
+No psilocybin,High MEQ,P12,rest,5,-0.1537538315855654
+No psilocybin,High MEQ,P12,rest,6,0.1898622254822781
+No psilocybin,High MEQ,P12,rest,7,-0.1081074028069151
+No psilocybin,High MEQ,P12,rest,8,-0.0807461823401253
+No psilocybin,High MEQ,P12,rest,9,0.2377808148629633
+No psilocybin,High MEQ,P12,rest,10,-0.1408771749442586
+No psilocybin,High MEQ,P12,meditation,1,-0.0698670103808402
+No psilocybin,High MEQ,P12,meditation,2,-0.0602476960895624
+No psilocybin,High MEQ,P12,meditation,3,0.1819321487093673
+No psilocybin,High MEQ,P12,meditation,4,0.0683403947450876
+No psilocybin,High MEQ,P12,meditation,5,0.0443584094892436
+No psilocybin,High MEQ,P12,meditation,6,0.1837084248609377
+No psilocybin,High MEQ,P12,meditation,7,-0.073244243460122
+No psilocybin,High MEQ,P12,meditation,8,0.0557279651108444
+No psilocybin,High MEQ,P12,meditation,9,-0.2948069314037573
+No psilocybin,High MEQ,P12,meditation,10,0.0720199764289869
+No psilocybin,High MEQ,P12,music,1,-0.1508918603180215
+No psilocybin,High MEQ,P12,music,2,-0.2331005884733535
+No psilocybin,High MEQ,P12,music,3,0.1499298658632717
+No psilocybin,High MEQ,P12,music,4,-0.0323411868390216
+No psilocybin,High MEQ,P12,music,5,-0.0667445368928875
+No psilocybin,High MEQ,P12,music,6,-0.224185866495281
+No psilocybin,High MEQ,P12,music,7,-0.125482119630554
+No psilocybin,High MEQ,P12,music,8,0.0199326786955834
+No psilocybin,High MEQ,P12,music,9,0.2750123667217076
+No psilocybin,High MEQ,P12,music,10,-0.0767176369451837
+No psilocybin,High MEQ,P12,movie,1,-0.1121418597495003
+No psilocybin,High MEQ,P12,movie,2,0.1778950238774189
+No psilocybin,High MEQ,P12,movie,3,-0.2948728303545475
+No psilocybin,High MEQ,P12,movie,4,0.002309794885893
+No psilocybin,High MEQ,P12,movie,5,0.2091764814003236
+No psilocybin,High MEQ,P12,movie,6,-0.2110110111635172
+No psilocybin,High MEQ,P12,movie,7,0.2784302473900952
+No psilocybin,High MEQ,P12,movie,8,-0.1861453341748286
+No psilocybin,High MEQ,P12,movie,9,0.2724472080213603
+No psilocybin,High MEQ,P12,movie,10,-0.055301870160994
+No psilocybin,High MEQ,P7,rest,1,-0.1835747552298821
+No psilocybin,High MEQ,P7,rest,2,0.1130449857480984
+No psilocybin,High MEQ,P7,rest,3,-0.253887988356187
+No psilocybin,High MEQ,P7,rest,4,-0.0576693585317643
+No psilocybin,High MEQ,P7,rest,5,-0.0264273615821759
+No psilocybin,High MEQ,P7,rest,6,0.0498802095833921
+No psilocybin,High MEQ,P7,rest,7,-0.0424150921004027
+No psilocybin,High MEQ,P7,rest,8,0.1557014288017674
+No psilocybin,High MEQ,P7,rest,9,0.0273731820695208
+No psilocybin,High MEQ,P7,rest,10,-0.0778670173098868
+No psilocybin,High MEQ,P7,meditation,1,0.4215830695608265
+No psilocybin,High MEQ,P7,meditation,2,0.415249751434396
+No psilocybin,High MEQ,P7,meditation,3,0.3109707104991754
+No psilocybin,High MEQ,P7,meditation,4,0.2573779007658384
+No psilocybin,High MEQ,P7,meditation,5,0.1867376666096352
+No psilocybin,High MEQ,P7,meditation,6,0.2569317132224673
+No psilocybin,High MEQ,P7,meditation,7,0.0008013330945104
+No psilocybin,High MEQ,P7,meditation,8,-0.1681743383097166
+No psilocybin,High MEQ,P7,meditation,9,0.7028632390730913
+No psilocybin,High MEQ,P7,meditation,10,0.5595607189093664
+No psilocybin,High MEQ,P7,music,1,-0.160550234134875
+No psilocybin,High MEQ,P7,music,2,-0.3126561784705876
+No psilocybin,High MEQ,P7,music,3,-0.0720734050113814
+No psilocybin,High MEQ,P7,music,4,-0.2130546536117266
+No psilocybin,High MEQ,P7,music,5,-0.1637063458816482
+No psilocybin,High MEQ,P7,music,6,-0.1921734238989975
+No psilocybin,High MEQ,P7,music,7,-0.1447747067768156
+No psilocybin,High MEQ,P7,music,8,-0.2392402926005485
+No psilocybin,High MEQ,P7,music,9,-0.2086849222055583
+No psilocybin,High MEQ,P7,music,10,-0.0073373728893223
+No psilocybin,High MEQ,P7,movie,1,-0.0450033947944498
+No psilocybin,High MEQ,P7,movie,2,-0.0753393239811504
+No psilocybin,High MEQ,P7,movie,3,-0.0844549705283266
+No psilocybin,High MEQ,P7,movie,4,-0.1118465576849707
+No psilocybin,High MEQ,P7,movie,5,-0.1590463329632796
+No psilocybin,High MEQ,P7,movie,6,-0.1687543281465637
+No psilocybin,High MEQ,P7,movie,7,-0.0884915134088042
+No psilocybin,High MEQ,P7,movie,8,0.0793951993136997
+No psilocybin,High MEQ,P7,movie,9,-0.2171580574320853
+No psilocybin,High MEQ,P7,movie,10,-0.226284443724063
+Psilocybin,Low MEQ,P1,rest,1,-0.2795512319303382
+Psilocybin,Low MEQ,P1,rest,2,0.3200196788252864
+Psilocybin,Low MEQ,P1,rest,3,-0.0533028310902303
+Psilocybin,Low MEQ,P1,rest,4,0.5993801063240071
+Psilocybin,Low MEQ,P1,rest,5,-0.2824691634279324
+Psilocybin,Low MEQ,P1,rest,6,0.7460283201227141
+Psilocybin,Low MEQ,P1,rest,7,0.8106661951246815
+Psilocybin,Low MEQ,P1,rest,8,-0.1662135692978876
+Psilocybin,Low MEQ,P1,rest,9,-0.2258504048122359
+Psilocybin,Low MEQ,P1,rest,10,0.004403878682281
+Psilocybin,Low MEQ,P1,meditation,1,0.7444398488066285
+Psilocybin,Low MEQ,P1,meditation,2,0.7332875368442987
+Psilocybin,Low MEQ,P1,meditation,3,0.7646534317053448
+Psilocybin,Low MEQ,P1,meditation,4,0.7181736533679708
+Psilocybin,Low MEQ,P1,meditation,5,0.7010506401816788
+Psilocybin,Low MEQ,P1,meditation,6,0.8421886000051617
+Psilocybin,Low MEQ,P1,meditation,7,0.2779091385809469
+Psilocybin,Low MEQ,P1,meditation,8,0.6627796098968244
+Psilocybin,Low MEQ,P1,meditation,9,0.3520959053183695
+Psilocybin,Low MEQ,P1,meditation,10,0.5968049999109213
+Psilocybin,Low MEQ,P1,music,1,-0.2613507223620043
+Psilocybin,Low MEQ,P1,music,2,-0.2383614771745451
+Psilocybin,Low MEQ,P1,music,3,-0.3230199066201172
+Psilocybin,Low MEQ,P1,music,4,-0.4014837865989767
+Psilocybin,Low MEQ,P1,music,5,-0.1271431747722751
+Psilocybin,Low MEQ,P1,music,6,-0.2910648313064459
+Psilocybin,Low MEQ,P1,music,7,-0.0755092029426579
+Psilocybin,Low MEQ,P1,music,8,0.0100193033483259
+Psilocybin,Low MEQ,P1,music,9,-0.3012409687984633
+Psilocybin,Low MEQ,P1,music,10,-0.0795706388392851
+Psilocybin,Low MEQ,P1,movie,1,0.729377100622132
+Psilocybin,Low MEQ,P1,movie,2,0.4833434920918489
+Psilocybin,Low MEQ,P1,movie,3,0.6041858951360919
+Psilocybin,Low MEQ,P1,movie,4,0.3913881049455507
+Psilocybin,Low MEQ,P1,movie,5,0.157643548650389
+Psilocybin,Low MEQ,P1,movie,6,0.239405955253877
+Psilocybin,Low MEQ,P1,movie,7,0.6177775732796684
+Psilocybin,Low MEQ,P1,movie,8,0.6889634512739847
+Psilocybin,Low MEQ,P1,movie,9,0.7435313067438066
+Psilocybin,Low MEQ,P1,movie,10,0.4697505324281454
+Psilocybin,Low MEQ,P2,rest,1,-0.1030829451401074
+Psilocybin,Low MEQ,P2,rest,2,-0.1602809654372943
+Psilocybin,Low MEQ,P2,rest,3,-0.2018655841076349
+Psilocybin,Low MEQ,P2,rest,4,-0.0779873682085937
+Psilocybin,Low MEQ,P2,rest,5,-0.0738154630379235
+Psilocybin,Low MEQ,P2,rest,6,-0.2365667918862141
+Psilocybin,Low MEQ,P2,rest,7,-0.2771909948184897
+Psilocybin,Low MEQ,P2,rest,8,-0.0519894589155172
+Psilocybin,Low MEQ,P2,rest,9,-0.0169138344284978
+Psilocybin,Low MEQ,P2,rest,10,-0.0530811827262291
+Psilocybin,Low MEQ,P2,meditation,1,-0.0415279656654264
+Psilocybin,Low MEQ,P2,meditation,2,0.2242187019860041
+Psilocybin,Low MEQ,P2,meditation,3,0.3388882328066234
+Psilocybin,Low MEQ,P2,meditation,4,-0.0821936564427816
+Psilocybin,Low MEQ,P2,meditation,5,-0.1168354119098182
+Psilocybin,Low MEQ,P2,meditation,6,-0.0274458096303674
+Psilocybin,Low MEQ,P2,meditation,7,0.1851380715727902
+Psilocybin,Low MEQ,P2,meditation,8,-0.0521370726687018
+Psilocybin,Low MEQ,P2,meditation,9,-0.0307007119288334
+Psilocybin,Low MEQ,P2,meditation,10,0.222659283689286
+Psilocybin,Low MEQ,P2,music,1,-0.139764323355904
+Psilocybin,Low MEQ,P2,music,2,-0.0040150607426089
+Psilocybin,Low MEQ,P2,music,3,-0.2302909367887432
+Psilocybin,Low MEQ,P2,music,4,-0.074257449819193
+Psilocybin,Low MEQ,P2,music,5,-0.0509407241829284
+Psilocybin,Low MEQ,P2,music,6,-0.1357746766290335
+Psilocybin,Low MEQ,P2,music,7,-0.1293216467885094
+Psilocybin,Low MEQ,P2,music,8,-0.0613734935734037
+Psilocybin,Low MEQ,P2,music,9,-0.0512477757139421
+Psilocybin,Low MEQ,P2,music,10,-0.1139549122488506
+Psilocybin,Low MEQ,P2,movie,1,0.0534353766311034
+Psilocybin,Low MEQ,P2,movie,2,-0.0922669307293289
+Psilocybin,Low MEQ,P2,movie,3,0.1601825367782337
+Psilocybin,Low MEQ,P2,movie,4,0.0521133313804441
+Psilocybin,Low MEQ,P2,movie,5,0.0424671485613413
+Psilocybin,Low MEQ,P2,movie,6,0.4132396419617488
+Psilocybin,Low MEQ,P2,movie,7,0.1301553661749558
+Psilocybin,Low MEQ,P2,movie,8,-0.0043819014700686
+Psilocybin,Low MEQ,P2,movie,9,-0.0502291113545359
+Psilocybin,Low MEQ,P2,movie,10,-0.1583779566759927
+Psilocybin,Low MEQ,P3,rest,1,-0.107404951881294
+Psilocybin,Low MEQ,P3,rest,2,-0.0403899622859022
+Psilocybin,Low MEQ,P3,rest,3,0.2129060656813926
+Psilocybin,Low MEQ,P3,rest,4,0.0500246781701677
+Psilocybin,Low MEQ,P3,rest,5,0.0277614416003331
+Psilocybin,Low MEQ,P3,rest,6,0.0617055844104132
+Psilocybin,Low MEQ,P3,rest,7,0.0771113901672642
+Psilocybin,Low MEQ,P3,rest,8,0.2281823118189968
+Psilocybin,Low MEQ,P3,rest,9,-0.2083461039794246
+Psilocybin,Low MEQ,P3,rest,10,0.2089185026074565
+Psilocybin,Low MEQ,P3,meditation,1,0.0527825499847152
+Psilocybin,Low MEQ,P3,meditation,2,-0.0043359869634331
+Psilocybin,Low MEQ,P3,meditation,3,-0.1528554519020278
+Psilocybin,Low MEQ,P3,meditation,4,-0.1417411088319452
+Psilocybin,Low MEQ,P3,meditation,5,-0.1777520085327036
+Psilocybin,Low MEQ,P3,meditation,6,-0.0970533527315605
+Psilocybin,Low MEQ,P3,meditation,7,-0.0573280313442166
+Psilocybin,Low MEQ,P3,meditation,8,-0.23107016317779
+Psilocybin,Low MEQ,P3,meditation,9,-0.0420895958626248
+Psilocybin,Low MEQ,P3,meditation,10,-0.2007227008383106
+Psilocybin,Low MEQ,P3,music,1,-0.2119972923118096
+Psilocybin,Low MEQ,P3,music,2,-0.1972136824405802
+Psilocybin,Low MEQ,P3,music,3,-0.0150759466392319
+Psilocybin,Low MEQ,P3,music,4,-0.0528414531894375
+Psilocybin,Low MEQ,P3,music,5,0.0724350147578023
+Psilocybin,Low MEQ,P3,music,6,-0.2485665293327635
+Psilocybin,Low MEQ,P3,music,7,-0.1668011311922318
+Psilocybin,Low MEQ,P3,music,8,-0.2275654745644986
+Psilocybin,Low MEQ,P3,music,9,-0.1560235535898439
+Psilocybin,Low MEQ,P3,music,10,-0.1441991237191446
+Psilocybin,Low MEQ,P3,movie,1,0.1221836570347064
+Psilocybin,Low MEQ,P3,movie,2,0.056395794890298
+Psilocybin,Low MEQ,P3,movie,3,-0.1782946283412304
+Psilocybin,Low MEQ,P3,movie,4,-0.0830608864392661
+Psilocybin,Low MEQ,P3,movie,5,0.015270125183071
+Psilocybin,Low MEQ,P3,movie,6,0.2223508172355388
+Psilocybin,Low MEQ,P3,movie,7,-0.0345384534162321
+Psilocybin,Low MEQ,P3,movie,8,0.096606248286243
+Psilocybin,Low MEQ,P3,movie,9,0.4650841722189827
+Psilocybin,Low MEQ,P3,movie,10,-0.0324693390660335
+Psilocybin,Low MEQ,P4,rest,1,0.0571999813713894
+Psilocybin,Low MEQ,P4,rest,2,-0.0798054279663673
+Psilocybin,Low MEQ,P4,rest,3,-0.1857061947539354
+Psilocybin,Low MEQ,P4,rest,4,-0.0785593589722662
+Psilocybin,Low MEQ,P4,rest,5,-0.0892641002099701
+Psilocybin,Low MEQ,P4,rest,6,-0.1005848000844862
+Psilocybin,Low MEQ,P4,rest,7,-0.2603304555940351
+Psilocybin,Low MEQ,P4,rest,8,0.5422478161384752
+Psilocybin,Low MEQ,P4,rest,9,-0.0409383133450586
+Psilocybin,Low MEQ,P4,rest,10,-0.0022157230602491
+Psilocybin,Low MEQ,P4,meditation,1,0.5921161874367719
+Psilocybin,Low MEQ,P4,meditation,2,-0.3195720684401162
+Psilocybin,Low MEQ,P4,meditation,3,0.1336786242499645
+Psilocybin,Low MEQ,P4,meditation,4,0.1282439520763844
+Psilocybin,Low MEQ,P4,meditation,5,-0.0358735654046713
+Psilocybin,Low MEQ,P4,meditation,6,-0.2086289684235963
+Psilocybin,Low MEQ,P4,meditation,7,0.347384860435736
+Psilocybin,Low MEQ,P4,meditation,8,-0.1822818212530035
+Psilocybin,Low MEQ,P4,meditation,9,-0.2303376173895578
+Psilocybin,Low MEQ,P4,meditation,10,-0.1657347227025288
+Psilocybin,Low MEQ,P4,music,1,-0.369447508399729
+Psilocybin,Low MEQ,P4,music,2,-0.118927548659054
+Psilocybin,Low MEQ,P4,music,3,-0.139712539478225
+Psilocybin,Low MEQ,P4,music,4,-0.2078949971660404
+Psilocybin,Low MEQ,P4,music,5,-0.2295183126438935
+Psilocybin,Low MEQ,P4,music,6,-0.1287247218236541
+Psilocybin,Low MEQ,P4,music,7,-0.1765808048055148
+Psilocybin,Low MEQ,P4,music,8,-0.1356268529654412
+Psilocybin,Low MEQ,P4,music,9,-0.1787647718103569
+Psilocybin,Low MEQ,P4,music,10,-0.2114221697682158
+Psilocybin,Low MEQ,P4,movie,1,0.6552150478467978
+Psilocybin,Low MEQ,P4,movie,2,0.5293924001882947
+Psilocybin,Low MEQ,P4,movie,3,0.0519710593530858
+Psilocybin,Low MEQ,P4,movie,4,0.0327414704455976
+Psilocybin,Low MEQ,P4,movie,5,0.3084550247324121
+Psilocybin,Low MEQ,P4,movie,6,0.4267578164138675
+Psilocybin,Low MEQ,P4,movie,7,0.2001869686234338
+Psilocybin,Low MEQ,P4,movie,8,0.1100794525829437
+Psilocybin,Low MEQ,P4,movie,9,0.4003479523736163
+Psilocybin,Low MEQ,P4,movie,10,0.5675788945275813
+Psilocybin,Low MEQ,P5,rest,1,-0.007741583801952
+Psilocybin,Low MEQ,P5,rest,2,0.0734154784696093
+Psilocybin,Low MEQ,P5,rest,3,-0.0170973447334294
+Psilocybin,Low MEQ,P5,rest,4,-0.0347532118593671
+Psilocybin,Low MEQ,P5,rest,5,0.0372834585135625
+Psilocybin,Low MEQ,P5,rest,6,-0.0666160951561226
+Psilocybin,Low MEQ,P5,rest,7,0.1144990682523388
+Psilocybin,Low MEQ,P5,rest,8,-0.0545466940516059
+Psilocybin,Low MEQ,P5,rest,9,-0.0506300760978226
+Psilocybin,Low MEQ,P5,rest,10,-0.0594638158988947
+Psilocybin,Low MEQ,P5,meditation,1,-0.1120543928174388
+Psilocybin,Low MEQ,P5,meditation,2,-0.064413581444421
+Psilocybin,Low MEQ,P5,meditation,3,0.0084623528172828
+Psilocybin,Low MEQ,P5,meditation,4,-0.1089063359347732
+Psilocybin,Low MEQ,P5,meditation,5,-0.1360205702830701
+Psilocybin,Low MEQ,P5,meditation,6,-0.0924463878485965
+Psilocybin,Low MEQ,P5,meditation,7,-0.1918068025894258
+Psilocybin,Low MEQ,P5,meditation,8,-0.0374526609261248
+Psilocybin,Low MEQ,P5,meditation,9,-0.1365303739697846
+Psilocybin,Low MEQ,P5,meditation,10,-0.0584500010591658
+Psilocybin,Low MEQ,P5,music,1,-0.0961647292950626
+Psilocybin,Low MEQ,P5,music,2,-0.0853918361625137
+Psilocybin,Low MEQ,P5,music,3,-0.0866878367784565
+Psilocybin,Low MEQ,P5,music,4,-0.098032202505804
+Psilocybin,Low MEQ,P5,music,5,-0.0562714927997799
+Psilocybin,Low MEQ,P5,music,6,-0.0413029906492327
+Psilocybin,Low MEQ,P5,music,7,-0.1815685791217885
+Psilocybin,Low MEQ,P5,music,8,-0.0493914560943056
+Psilocybin,Low MEQ,P5,music,9,-0.0759319558621276
+Psilocybin,Low MEQ,P5,music,10,-0.0200940259898908
+Psilocybin,Low MEQ,P5,movie,1,-0.0224649892225912
+Psilocybin,Low MEQ,P5,movie,2,-0.0975978594642922
+Psilocybin,Low MEQ,P5,movie,3,-0.144492703794532
+Psilocybin,Low MEQ,P5,movie,4,0.0118357764169048
+Psilocybin,Low MEQ,P5,movie,5,-0.0866754321297184
+Psilocybin,Low MEQ,P5,movie,6,-0.0201636116585865
+Psilocybin,Low MEQ,P5,movie,7,0.0698098770352721
+Psilocybin,Low MEQ,P5,movie,8,-0.0345210266783168
+Psilocybin,Low MEQ,P5,movie,9,-0.0089863790876913
+Psilocybin,Low MEQ,P5,movie,10,-0.0353774548654487
+Psilocybin,Low MEQ,P6,rest,1,-0.1854521352817736
+Psilocybin,Low MEQ,P6,rest,2,-0.0853305379674702
+Psilocybin,Low MEQ,P6,rest,3,-0.0136536204448664
+Psilocybin,Low MEQ,P6,rest,4,0.0199626896095992
+Psilocybin,Low MEQ,P6,rest,5,-0.0546434939548995
+Psilocybin,Low MEQ,P6,rest,6,-0.2051337215640421
+Psilocybin,Low MEQ,P6,rest,7,-0.0950672453181873
+Psilocybin,Low MEQ,P6,rest,8,-0.0069914284044631
+Psilocybin,Low MEQ,P6,rest,9,-0.0506137808388733
+Psilocybin,Low MEQ,P6,rest,10,-0.0549230038952439
+Psilocybin,Low MEQ,P6,meditation,1,-0.1653623926984492
+Psilocybin,Low MEQ,P6,meditation,2,-0.2252315768217219
+Psilocybin,Low MEQ,P6,meditation,3,-0.1973649315179871
+Psilocybin,Low MEQ,P6,meditation,4,-0.2099410510876841
+Psilocybin,Low MEQ,P6,meditation,5,-0.0910568429056738
+Psilocybin,Low MEQ,P6,meditation,6,-0.2143675462668876
+Psilocybin,Low MEQ,P6,meditation,7,-0.088237953892003
+Psilocybin,Low MEQ,P6,meditation,8,-0.0815027802501863
+Psilocybin,Low MEQ,P6,meditation,9,-0.0705056413452004
+Psilocybin,Low MEQ,P6,meditation,10,-0.0949805589690293
+Psilocybin,Low MEQ,P6,music,1,-0.0426077233107404
+Psilocybin,Low MEQ,P6,music,2,-0.1091139947505753
+Psilocybin,Low MEQ,P6,music,3,-0.1643330128083282
+Psilocybin,Low MEQ,P6,music,4,-0.0983561135725668
+Psilocybin,Low MEQ,P6,music,5,-0.1100951598224481
+Psilocybin,Low MEQ,P6,music,6,-0.0517791854511207
+Psilocybin,Low MEQ,P6,music,7,-0.1208147719328025
+Psilocybin,Low MEQ,P6,music,8,-0.0585749962982071
+Psilocybin,Low MEQ,P6,music,9,-0.0913191323243668
+Psilocybin,Low MEQ,P6,music,10,-0.1850395636186697
+Psilocybin,Low MEQ,P6,movie,1,0.2880389053793604
+Psilocybin,Low MEQ,P6,movie,2,0.2305329185398908
+Psilocybin,Low MEQ,P6,movie,3,0.2936571253851714
+Psilocybin,Low MEQ,P6,movie,4,0.1167011143801077
+Psilocybin,Low MEQ,P6,movie,5,0.0553280353909632
+Psilocybin,Low MEQ,P6,movie,6,0.6293964380749747
+Psilocybin,Low MEQ,P6,movie,7,0.0946729179537927
+Psilocybin,Low MEQ,P6,movie,8,-0.0350244756671323
+Psilocybin,Low MEQ,P6,movie,9,-0.025473212848644
+Psilocybin,Low MEQ,P6,movie,10,0.111668577041156
+Psilocybin,High MEQ,P8,rest,1,0.4450187002777222
+Psilocybin,High MEQ,P8,rest,2,0.4378024363873625
+Psilocybin,High MEQ,P8,rest,3,0.4916275586620673
+Psilocybin,High MEQ,P8,rest,4,0.4835847281724789
+Psilocybin,High MEQ,P8,rest,5,0.3106069819885474
+Psilocybin,High MEQ,P8,rest,6,0.4180060246474123
+Psilocybin,High MEQ,P8,rest,7,-0.037874514573205
+Psilocybin,High MEQ,P8,rest,8,0.1878469763548391
+Psilocybin,High MEQ,P8,rest,9,0.4030150852425899
+Psilocybin,High MEQ,P8,rest,10,0.4825675517880958
+Psilocybin,High MEQ,P8,meditation,1,0.5140002340781099
+Psilocybin,High MEQ,P8,meditation,2,0.3135563609496114
+Psilocybin,High MEQ,P8,meditation,3,0.4433774833517352
+Psilocybin,High MEQ,P8,meditation,4,0.6850244148873772
+Psilocybin,High MEQ,P8,meditation,5,0.6797532622744096
+Psilocybin,High MEQ,P8,meditation,6,0.4251037202519501
+Psilocybin,High MEQ,P8,meditation,7,-0.0017812205117561
+Psilocybin,High MEQ,P8,meditation,8,0.6007884973614385
+Psilocybin,High MEQ,P8,meditation,9,0.4019149778026525
+Psilocybin,High MEQ,P8,meditation,10,0.5952788535784914
+Psilocybin,High MEQ,P8,music,1,0.3362207275282492
+Psilocybin,High MEQ,P8,music,2,0.4879596072987734
+Psilocybin,High MEQ,P8,music,3,0.404003099642809
+Psilocybin,High MEQ,P8,music,4,0.4010823808124847
+Psilocybin,High MEQ,P8,music,5,0.4893441601490519
+Psilocybin,High MEQ,P8,music,6,0.3267989977781244
+Psilocybin,High MEQ,P8,music,7,0.4425809085777129
+Psilocybin,High MEQ,P8,music,8,0.4809483829013369
+Psilocybin,High MEQ,P8,music,9,0.3766409054028037
+Psilocybin,High MEQ,P8,music,10,0.385250675288727
+Psilocybin,High MEQ,P8,movie,1,0.9935498370564488
+Psilocybin,High MEQ,P8,movie,2,0.981332053045209
+Psilocybin,High MEQ,P8,movie,3,0.9974826731171222
+Psilocybin,High MEQ,P8,movie,4,0.9983024183721072
+Psilocybin,High MEQ,P8,movie,5,0.995155091210684
+Psilocybin,High MEQ,P8,movie,6,0.9927287988284
+Psilocybin,High MEQ,P8,movie,7,0.9964246151948336
+Psilocybin,High MEQ,P8,movie,8,0.9976520418392704
+Psilocybin,High MEQ,P8,movie,9,0.988204688778235
+Psilocybin,High MEQ,P8,movie,10,0.9976753078363572
+Psilocybin,High MEQ,P9,rest,1,0.703315342760904
+Psilocybin,High MEQ,P9,rest,2,0.6919406818389682
+Psilocybin,High MEQ,P9,rest,3,0.696044974309806
+Psilocybin,High MEQ,P9,rest,4,0.64868486505826
+Psilocybin,High MEQ,P9,rest,5,0.6729834430639028
+Psilocybin,High MEQ,P9,rest,6,0.6255252465316496
+Psilocybin,High MEQ,P9,rest,7,0.730140561127458
+Psilocybin,High MEQ,P9,rest,8,0.5918750245588802
+Psilocybin,High MEQ,P9,rest,9,0.7462916551581767
+Psilocybin,High MEQ,P9,rest,10,0.7420028122352893
+Psilocybin,High MEQ,P9,meditation,1,0.4259659073161672
+Psilocybin,High MEQ,P9,meditation,2,0.7128410048919656
+Psilocybin,High MEQ,P9,meditation,3,0.7388197178689008
+Psilocybin,High MEQ,P9,meditation,4,-0.0062838994253747
+Psilocybin,High MEQ,P9,meditation,5,0.6718323970095463
+Psilocybin,High MEQ,P9,meditation,6,0.2920557145457312
+Psilocybin,High MEQ,P9,meditation,7,0.597775914199685
+Psilocybin,High MEQ,P9,meditation,8,0.6272941851141143
+Psilocybin,High MEQ,P9,meditation,9,0.0343211047398145
+Psilocybin,High MEQ,P9,meditation,10,0.5424618537796587
+Psilocybin,High MEQ,P9,music,1,0.2159182987468804
+Psilocybin,High MEQ,P9,music,2,-0.0405986319522885
+Psilocybin,High MEQ,P9,music,3,0.3248056617617836
+Psilocybin,High MEQ,P9,music,4,0.3596278680872298
+Psilocybin,High MEQ,P9,music,5,-0.2380978502423457
+Psilocybin,High MEQ,P9,music,6,0.2430373698032517
+Psilocybin,High MEQ,P9,music,7,0.0751296819109147
+Psilocybin,High MEQ,P9,music,8,0.3934237838918307
+Psilocybin,High MEQ,P9,music,9,0.0774394612857943
+Psilocybin,High MEQ,P9,music,10,0.2988383275514564
+Psilocybin,High MEQ,P9,movie,1,0.8543315315864569
+Psilocybin,High MEQ,P9,movie,2,0.6234729918833974
+Psilocybin,High MEQ,P9,movie,3,0.3795585555899249
+Psilocybin,High MEQ,P9,movie,4,0.7160727710721972
+Psilocybin,High MEQ,P9,movie,5,0.7171289726226405
+Psilocybin,High MEQ,P9,movie,6,0.8577084268736497
+Psilocybin,High MEQ,P9,movie,7,0.7317808733347139
+Psilocybin,High MEQ,P9,movie,8,0.8107607788292562
+Psilocybin,High MEQ,P9,movie,9,0.8867768502758292
+Psilocybin,High MEQ,P9,movie,10,0.74191004500007
+Psilocybin,High MEQ,P10,rest,1,0.3470857124922372
+Psilocybin,High MEQ,P10,rest,2,0.5339283388948267
+Psilocybin,High MEQ,P10,rest,3,0.0703284561177577
+Psilocybin,High MEQ,P10,rest,4,-0.044668533445606
+Psilocybin,High MEQ,P10,rest,5,0.5473505807625414
+Psilocybin,High MEQ,P10,rest,6,0.4606943614564496
+Psilocybin,High MEQ,P10,rest,7,0.403420644352579
+Psilocybin,High MEQ,P10,rest,8,0.5194009583994196
+Psilocybin,High MEQ,P10,rest,9,0.5562255122113681
+Psilocybin,High MEQ,P10,rest,10,0.592651878197448
+Psilocybin,High MEQ,P10,meditation,1,0.8340343776454947
+Psilocybin,High MEQ,P10,meditation,2,0.8310640322039481
+Psilocybin,High MEQ,P10,meditation,3,0.9067731751189256
+Psilocybin,High MEQ,P10,meditation,4,0.7840198603388373
+Psilocybin,High MEQ,P10,meditation,5,0.9404700201276408
+Psilocybin,High MEQ,P10,meditation,6,0.8944569067180989
+Psilocybin,High MEQ,P10,meditation,7,0.8265686548166645
+Psilocybin,High MEQ,P10,meditation,8,-0.0386135945207623
+Psilocybin,High MEQ,P10,meditation,9,0.7644216107673817
+Psilocybin,High MEQ,P10,meditation,10,0.8025764103106556
+Psilocybin,High MEQ,P10,music,1,0.4365046435469705
+Psilocybin,High MEQ,P10,music,2,0.3624923589367645
+Psilocybin,High MEQ,P10,music,3,0.4343753708401429
+Psilocybin,High MEQ,P10,music,4,0.4739495403048567
+Psilocybin,High MEQ,P10,music,5,0.4343205233256737
+Psilocybin,High MEQ,P10,music,6,0.368906006736076
+Psilocybin,High MEQ,P10,music,7,0.4300034840536534
+Psilocybin,High MEQ,P10,music,8,0.4295030510461576
+Psilocybin,High MEQ,P10,music,9,0.4202072475150537
+Psilocybin,High MEQ,P10,music,10,0.4407485470282503
+Psilocybin,High MEQ,P10,movie,1,0.4605456069454382
+Psilocybin,High MEQ,P10,movie,2,0.7157962564729368
+Psilocybin,High MEQ,P10,movie,3,-0.0477923222853897
+Psilocybin,High MEQ,P10,movie,4,0.1545828126005094
+Psilocybin,High MEQ,P10,movie,5,0.8744129845979489
+Psilocybin,High MEQ,P10,movie,6,0.6550768767070035
+Psilocybin,High MEQ,P10,movie,7,0.5619707379367843
+Psilocybin,High MEQ,P10,movie,8,0.6785501875621566
+Psilocybin,High MEQ,P10,movie,9,0.761753836814857
+Psilocybin,High MEQ,P10,movie,10,0.7192205016749843
+Psilocybin,High MEQ,P11,rest,1,0.6619871146873203
+Psilocybin,High MEQ,P11,rest,2,0.5443112611866737
+Psilocybin,High MEQ,P11,rest,3,0.7177063815941678
+Psilocybin,High MEQ,P11,rest,4,0.6563359019691075
+Psilocybin,High MEQ,P11,rest,5,0.659242781045274
+Psilocybin,High MEQ,P11,rest,6,0.4865822180923403
+Psilocybin,High MEQ,P11,rest,7,0.7389944139501627
+Psilocybin,High MEQ,P11,rest,8,0.6724934816833448
+Psilocybin,High MEQ,P11,rest,9,0.6775148991014188
+Psilocybin,High MEQ,P11,rest,10,0.6215444471435224
+Psilocybin,High MEQ,P11,meditation,1,0.5906932571769842
+Psilocybin,High MEQ,P11,meditation,2,0.9412765043667451
+Psilocybin,High MEQ,P11,meditation,3,0.8417173626692664
+Psilocybin,High MEQ,P11,meditation,4,0.6706458498333077
+Psilocybin,High MEQ,P11,meditation,5,0.787983887359664
+Psilocybin,High MEQ,P11,meditation,6,0.8922393885341333
+Psilocybin,High MEQ,P11,meditation,7,0.8751350733690493
+Psilocybin,High MEQ,P11,meditation,8,0.9497585921360598
+Psilocybin,High MEQ,P11,meditation,9,0.9421199477989242
+Psilocybin,High MEQ,P11,meditation,10,0.8264519258567949
+Psilocybin,High MEQ,P11,music,1,0.4224882114525536
+Psilocybin,High MEQ,P11,music,2,0.4142741731219634
+Psilocybin,High MEQ,P11,music,3,0.4177183511739416
+Psilocybin,High MEQ,P11,music,4,0.4212439954844545
+Psilocybin,High MEQ,P11,music,5,0.4115663476503983
+Psilocybin,High MEQ,P11,music,6,0.3980460995273328
+Psilocybin,High MEQ,P11,music,7,0.1382889274109323
+Psilocybin,High MEQ,P11,music,8,0.4499180006586985
+Psilocybin,High MEQ,P11,music,9,0.4411236339546583
+Psilocybin,High MEQ,P11,music,10,0.430402538288311
+Psilocybin,High MEQ,P11,movie,1,-0.1272951425337555
+Psilocybin,High MEQ,P11,movie,2,-0.0252624118420661
+Psilocybin,High MEQ,P11,movie,3,0.8878971304886668
+Psilocybin,High MEQ,P11,movie,4,0.8622961528711738
+Psilocybin,High MEQ,P11,movie,5,0.8854825753697656
+Psilocybin,High MEQ,P11,movie,6,0.0236038612741618
+Psilocybin,High MEQ,P11,movie,7,-0.1614560446402744
+Psilocybin,High MEQ,P11,movie,8,0.8983621761104882
+Psilocybin,High MEQ,P11,movie,9,0.9045385888834
+Psilocybin,High MEQ,P11,movie,10,0.937401057932679
+Psilocybin,High MEQ,P12,rest,1,0.0908953169911685
+Psilocybin,High MEQ,P12,rest,2,0.0017090943248255
+Psilocybin,High MEQ,P12,rest,3,0.0653689357708882
+Psilocybin,High MEQ,P12,rest,4,0.0727520897122562
+Psilocybin,High MEQ,P12,rest,5,0.4651892778603879
+Psilocybin,High MEQ,P12,rest,6,0.4999627815450861
+Psilocybin,High MEQ,P12,rest,7,0.4757745601705216
+Psilocybin,High MEQ,P12,rest,8,0.5510854542328667
+Psilocybin,High MEQ,P12,rest,9,0.4604710416128417
+Psilocybin,High MEQ,P12,rest,10,0.4035699009819853
+Psilocybin,High MEQ,P12,meditation,1,0.7135969718503276
+Psilocybin,High MEQ,P12,meditation,2,0.8306113306150087
+Psilocybin,High MEQ,P12,meditation,3,0.4691641141435294
+Psilocybin,High MEQ,P12,meditation,4,0.6845894662126885
+Psilocybin,High MEQ,P12,meditation,5,0.7904452025631685
+Psilocybin,High MEQ,P12,meditation,6,0.8067007970082151
+Psilocybin,High MEQ,P12,meditation,7,0.8356810465682445
+Psilocybin,High MEQ,P12,meditation,8,0.2617789185772176
+Psilocybin,High MEQ,P12,meditation,9,0.7380248826865661
+Psilocybin,High MEQ,P12,meditation,10,-0.3389378349385732
+Psilocybin,High MEQ,P12,music,1,0.4375514668852055
+Psilocybin,High MEQ,P12,music,2,0.4377665160882106
+Psilocybin,High MEQ,P12,music,3,0.3382976949513799
+Psilocybin,High MEQ,P12,music,4,0.4463197156754721
+Psilocybin,High MEQ,P12,music,5,0.3818495394928663
+Psilocybin,High MEQ,P12,music,6,0.3673486163292402
+Psilocybin,High MEQ,P12,music,7,0.3951598670240772
+Psilocybin,High MEQ,P12,music,8,0.3609500164076674
+Psilocybin,High MEQ,P12,music,9,0.3940334421187484
+Psilocybin,High MEQ,P12,music,10,0.4136914150603774
+Psilocybin,High MEQ,P12,movie,1,0.7673961758435573
+Psilocybin,High MEQ,P12,movie,2,0.624067603857844
+Psilocybin,High MEQ,P12,movie,3,0.6319853622628723
+Psilocybin,High MEQ,P12,movie,4,0.703777685599181
+Psilocybin,High MEQ,P12,movie,5,0.8578329986739348
+Psilocybin,High MEQ,P12,movie,6,0.8277403663091576
+Psilocybin,High MEQ,P12,movie,7,0.8112357112676731
+Psilocybin,High MEQ,P12,movie,8,0.8244567147827234
+Psilocybin,High MEQ,P12,movie,9,0.8202467017078721
+Psilocybin,High MEQ,P12,movie,10,0.8460735115890762
+Psilocybin,High MEQ,P7,rest,1,0.5680526967252044
+Psilocybin,High MEQ,P7,rest,2,0.6030699510499764
+Psilocybin,High MEQ,P7,rest,3,0.6561327217110211
+Psilocybin,High MEQ,P7,rest,4,0.5377289481419276
+Psilocybin,High MEQ,P7,rest,5,0.5721231499574426
+Psilocybin,High MEQ,P7,rest,6,0.6449773255731229
+Psilocybin,High MEQ,P7,rest,7,0.6442546862249933
+Psilocybin,High MEQ,P7,rest,8,0.4840857844815918
+Psilocybin,High MEQ,P7,rest,9,0.5987613645293843
+Psilocybin,High MEQ,P7,rest,10,0.6315685596836418
+Psilocybin,High MEQ,P7,meditation,1,0.9030042347606784
+Psilocybin,High MEQ,P7,meditation,2,0.9662740217789704
+Psilocybin,High MEQ,P7,meditation,3,0.9863813913427956
+Psilocybin,High MEQ,P7,meditation,4,0.9750901497038632
+Psilocybin,High MEQ,P7,meditation,5,0.9804357713366588
+Psilocybin,High MEQ,P7,meditation,6,0.9770207470776594
+Psilocybin,High MEQ,P7,meditation,7,0.901303480133643
+Psilocybin,High MEQ,P7,meditation,8,0.9824017774810936
+Psilocybin,High MEQ,P7,meditation,9,0.869939517150025
+Psilocybin,High MEQ,P7,meditation,10,0.9835906056562548
+Psilocybin,High MEQ,P7,music,1,0.475832618298407
+Psilocybin,High MEQ,P7,music,2,0.3681955377675068
+Psilocybin,High MEQ,P7,music,3,0.4402779633629617
+Psilocybin,High MEQ,P7,music,4,0.4132704749301523
+Psilocybin,High MEQ,P7,music,5,0.430494802882963
+Psilocybin,High MEQ,P7,music,6,0.4046666956262321
+Psilocybin,High MEQ,P7,music,7,0.4479174975574464
+Psilocybin,High MEQ,P7,music,8,0.3027488457808543
+Psilocybin,High MEQ,P7,music,9,-0.1714302848823228
+Psilocybin,High MEQ,P7,music,10,0.3784365089518569
+Psilocybin,High MEQ,P7,movie,1,0.9972356406156564
+Psilocybin,High MEQ,P7,movie,2,0.9970204121499262
+Psilocybin,High MEQ,P7,movie,3,0.9894176533373557
+Psilocybin,High MEQ,P7,movie,4,0.9984095048454884
+Psilocybin,High MEQ,P7,movie,5,0.99451170112626
+Psilocybin,High MEQ,P7,movie,6,0.9973760406074402
+Psilocybin,High MEQ,P7,movie,7,0.9941241144552218
+Psilocybin,High MEQ,P7,movie,8,0.996047492039074
+Psilocybin,High MEQ,P7,movie,9,0.9967888998941602
+Psilocybin,High MEQ,P7,movie,10,0.9950818129221292
